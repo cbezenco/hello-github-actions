@@ -1,3 +1,3 @@
 #!/bin/sh -l
 
-sh -c "echo howdy, what's up $INPUT_MY_NAME"
+sh -c "echo howdy, whats up $INPUT_MY_NAME"
